@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-tools-evalpolyf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Evaluate a polynomial using single-precision floating-point arithmetic.",
   "license": "Apache-2.0",
   "author": {
